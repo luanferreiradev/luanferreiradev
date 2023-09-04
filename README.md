@@ -23,7 +23,6 @@ I'm a Software Engineer and Fullstack Developer passionate about creating innova
 <!-- - [Twitter](https://twitter.com/meu-usuario) -->
 <!-- - [Dev.to](https://dev.to/meu-usuario) -->
 
-🇧🇷 Born in Minas Gerais, Brazil <br>
-🇳🇱 Living in Brasília, Brazil <br>
+🇧🇷 Living in Brasília, Brazil <br>
 
 Feel free to reach out if you want to collaborate on a project or just have a chat about technology and coding!
