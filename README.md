@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey, I'm Luan Ferreira! 👋
 
-<!--
-**lhferreirad/lhferreirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and Fullstack Developer passionate about creating innovative and user-friendly applications. Currently, I'm focused on building web applications using cutting-edge technologies.
 
-Here are some ideas to get you started:
+### About Me 📜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 💼 Senior Software Engineer at [My Company](https://www.company.com) -->
+- 🌐 Portfolio Website: [Visit My Portfolio](https://lhferreirad.github.io/MYportifolio/)
+- 📫 Email: [luan@email.com](luanhsouzaf@gmail.com)
+
+### Tech Stack 💻
+
+- Frontend: React, Angular
+- Backend: Node.js, Express, Java
+- Database: MongoDB, PostgreSQL
+- Other: HTML5, CSS3, JavaScript (ES6+), Git
+
+### Find me elsewhere 🌎
+
+- [GitHub](https://github.com/lhferreirad)
+- [LinkedIn](https://www.linkedin.com/in/lhferreirad/)
+- [Instagram](https://www.instagram.com/lhferreirad/)
+<!-- - [Twitter](https://twitter.com/meu-usuario) -->
+<!-- - [Dev.to](https://dev.to/meu-usuario) -->
+
+🇧🇷 Born in Minas Gerais, Brazil <br>
+🇳🇱 Living in Brasília, Brazil <br>
+
+Feel free to reach out if you want to collaborate on a project or just have a chat about technology and coding!
