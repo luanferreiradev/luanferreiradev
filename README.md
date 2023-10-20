@@ -11,7 +11,7 @@ I'm a Software Engineer and Fullstack Developer passionate about creating innova
 ### Tech Stack 💻
 
 - Frontend: React, Angular
-- Backend: Node.js, Express, Java
+- Backend: Node.js, C#, Java
 - Database: MongoDB, PostgreSQL
 - Other: HTML5, CSS3, JavaScript (ES6+), Git
 
